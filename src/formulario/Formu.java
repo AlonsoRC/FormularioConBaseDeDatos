@@ -32,6 +32,7 @@ public class Formu extends JFrame implements ActionListener{
         this.setLayout(null);                                   
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);    
     }
+      
     public void inicializarComponentes(){
         Titulazo = new JLabel();
         Nombre = new JLabel();
